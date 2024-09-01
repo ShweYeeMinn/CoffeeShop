@@ -1,0 +1,40 @@
+#logo img{
+    width: 50px;
+
+}
+.nav-item,.nav-link{
+    font-weight: bold;
+    margin-left: 10px;
+}
+.nav-bar{
+    margin-left: 50px;
+}
+img{
+    width: 100%;
+}
+
+.home{
+    height: 80vh;
+    width: 100%;
+    background-image: url(img/img3.jpg) ;
+    position: absolute;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.making{
+    padding-top: 150px;
+    margin-left: 40px;
+}
+.making h3{
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+}
+.making button{
+    background: white;
+    color: black;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}

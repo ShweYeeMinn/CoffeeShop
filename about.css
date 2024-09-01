@@ -1,0 +1,55 @@
+.imgg{
+    width: 90%;
+    height: 250px;
+    
+}
+.iba{
+    width: 80%;
+    
+    
+}
+.rounded-circle{
+    width: 128px;
+    height: 128px;
+}
+
+    
+
+button{
+    border-radius: 3px;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background: rgb(165, 165, 194);
+}
+.pfe{
+    width: 128px;
+    height: 128px;
+}
+.ii{
+    font-size: 30px;
+}
+button{
+    color: black;
+    background: rgb(128, 194, 128);
+    border: none;
+    width: 90%;
+}
+.form{
+    width: 100%;
+}
+.box{
+    width: 100%;
+}
+.icons2{
+    color: orange;
+}
+.footer{
+    background-color:   rgb(205, 195, 195);
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    text-align: center;
+    padding: 2px;
+
+}

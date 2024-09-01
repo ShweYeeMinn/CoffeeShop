@@ -1,0 +1,25 @@
+img{
+    width: 100%;
+    
+}
+.card{
+    background: wheat;
+}
+.food img{
+    width: 100%;
+}
+.icons{
+    font-size: 30px;
+    text-align: center;
+}
+body{
+    background: whitesmoke;
+}
+.footer{
+    background-color:   rgb(205, 195, 195);
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    text-align: center;
+    padding: 2px;
+
+}
